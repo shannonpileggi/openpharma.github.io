@@ -21,6 +21,13 @@ atorus-research:
   logrx:
     lang: r
     type: filing-tools
+ddsjoberg:
+  gtsummary:
+    lang: r
+    type: tables
+  ggsurvfit:
+    lang: r
+    type: plots
 EliLillyCo:
   rfacts:
     lang: r
@@ -208,6 +215,10 @@ Roche:
   synthetic.cdisc.data:
     lang: r
     type: synthetic-data
+shannonpileggi:
+  gtreg:
+    lang: r
+    type: tables
 UCL:
   RefbasedMI:
     lang: r
